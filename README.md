@@ -11,8 +11,6 @@ This is a solution to the [Loopstudios landing page challenge on Frontend Mentor
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 
 ## Overview
@@ -30,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/responsive-loopstudios-landing-page-with-css-grid-and-mobile-nav-menu-WfmmimEEVZ)
 - Live Site URL: [Loopstudios Landing Page](https://loopstudios-alejandro.netlify.app)
 
 ## My process
